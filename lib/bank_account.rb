@@ -1,4 +1,5 @@
 class BankAccount
+  
   def initialize
     @name='Avi'
     @balance=1000
